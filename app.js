@@ -17,6 +17,6 @@ const targetTheVal = (per) => {
     eventType.innerText = `Event Type: ${per.type}`
 };
 
-myInput.addEventListener("keydown" , (evt) => {
+myInput.addEventListener("keydown", (evt) => {
     targetTheVal(evt);
 });

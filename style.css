@@ -84,6 +84,15 @@ html body {
     border-left: .2rem solid white;
 }
 
+.my-btn{
+    border: none;
+    outline: none;
+    margin: 1rem;
+    font-family: "Poppins", sans-serif;
+    font-size: 1.5rem;
+    border-radius: 1rem;
+}
+
 /* my DOB targeter end */
 
 
