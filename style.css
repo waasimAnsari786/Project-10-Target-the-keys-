@@ -78,6 +78,12 @@ html body {
     font-family: "Poppins", sans-serif;
 }
 
+.peras-ctnr{
+    background-color: rgb(24, 24, 24);
+    border-radius: 1rem;
+    border-left: .2rem solid white;
+}
+
 /* my DOB targeter end */
 
 
