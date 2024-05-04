@@ -42,10 +42,10 @@ html {
 
 }
 
-@media (max-width:440px) {
-    /* .calculator {
-        width: 31rem !important;
-    } */
+@media (max-width:400px) {
+    .main-div {
+        width: 40rem !important;
+    }
 }
 
 /* my font size's media query end */
